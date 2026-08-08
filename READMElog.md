@@ -1,0 +1,1 @@
+Link to OneNotes on the whole process of implementing the hardware multiplier, please go to Lab2 Challenge section: https://imperiallondon-my.sharepoint.com/:o:/g/personal/kt1024_ic_ac_uk/Eqe9XEszYytGowhWZptC8rEB8jsKIcpVVRPdxKRGwvUN4Q?e=JmIylF
