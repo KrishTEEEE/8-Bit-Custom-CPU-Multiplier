@@ -236,8 +236,9 @@ limitation of how operands reach the multiplier, not of the add-and-shift core i
   proof-of-work screenshots
 - `docs/img/` — figures used in this README, extracted from the logbook
 
-The Issie design files are coursework and are not published here. Every schematic and
-waveform is reproduced in the logbook.
+The Issie design files themselves aren't included — they only open in Issie, so they aren't
+independently readable or reproducible, and the logbook already contains every schematic and
+waveform in full.
 
 ## Tools
 
