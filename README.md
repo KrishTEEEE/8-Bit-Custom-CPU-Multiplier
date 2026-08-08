@@ -1,4 +1,4 @@
-# A Custom Multiply Instruction for a 16-bit CPU
+# A Custom Multiplier for a 16-bit CPU
 
 I extended a 16-bit CPU with a hardware `MULT` instruction, built around a base-4
 add-and-shift datapath that processes two bits of the multiplier per clock cycle. The design
